@@ -1,0 +1,9 @@
+out
+bin
+include
+project
+lib
+lib64
+__pycache__
+pyvenv.cfg
+

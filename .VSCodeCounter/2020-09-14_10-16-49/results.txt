@@ -1,0 +1,39 @@
+Date : 2020-09-14 10:16:49
+Directory : d:\User\Documents\Programming\csc_project\project
+Total : 15 files,  2040 codes, 142 comments, 211 blanks, all 2393 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Python   |         15 |      2,040 |        142 |        211 |      2,393 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                 |         15 |      2,040 |        142 |        211 |      2,393 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                          | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\User\Documents\Programming\csc_project\project\backend.py      | Python   |        135 |         48 |         25 |        208 |
+| d:\User\Documents\Programming\csc_project\project\dash.py         | Python   |        171 |          7 |         10 |        188 |
+| d:\User\Documents\Programming\csc_project\project\dash_admin.py   | Python   |        113 |          7 |         10 |        130 |
+| d:\User\Documents\Programming\csc_project\project\form.py         | Python   |         93 |          4 |          7 |        104 |
+| d:\User\Documents\Programming\csc_project\project\formcreator.py  | Python   |        133 |          5 |         25 |        163 |
+| d:\User\Documents\Programming\csc_project\project\login.py        | Python   |        148 |          7 |          8 |        163 |
+| d:\User\Documents\Programming\csc_project\project\main.py         | Python   |        334 |         13 |         50 |        397 |
+| d:\User\Documents\Programming\csc_project\project\question.py     | Python   |        129 |          7 |          8 |        144 |
+| d:\User\Documents\Programming\csc_project\project\questiontemp.py | Python   |        140 |          7 |          8 |        155 |
+| d:\User\Documents\Programming\csc_project\project\score_list.py   | Python   |         89 |          5 |         13 |        107 |
+| d:\User\Documents\Programming\csc_project\project\scoredash.py    | Python   |        190 |          7 |         10 |        207 |
+| d:\User\Documents\Programming\csc_project\project\test_listing.py | Python   |        112 |          7 |         10 |        129 |
+| d:\User\Documents\Programming\csc_project\project\test_result.py  | Python   |         75 |          7 |         10 |         92 |
+| d:\User\Documents\Programming\csc_project\project\tests_list.py   | Python   |         96 |          4 |          7 |        107 |
+| d:\User\Documents\Programming\csc_project\project\thanks.py       | Python   |         82 |          7 |         10 |         99 |
+| Total                                                             |          |      2,040 |        142 |        211 |      2,393 |
++-------------------------------------------------------------------+----------+------------+------------+------------+------------+
